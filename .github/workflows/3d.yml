@@ -1,7 +1,8 @@
 name: GitHub 3D Contributions
+
 on:
-  schedule: 
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *" # Her gece 00:00'da otomatik oluşturur
   workflow_dispatch:
 
 jobs:
@@ -10,9 +11,12 @@ jobs:
     name: Generate 3D contribution graph
     steps:
       - uses: actions/checkout@v3
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: emreaygur3   # 🔥 Eksik olan satır buydu
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"

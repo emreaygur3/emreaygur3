@@ -2,109 +2,57 @@
 <h3 align="center">💻 Cybersecurity Enthusiast & Fullstack Developer from Turkey 🇹🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Fullstack+Developer;Always+Learning+Something+New!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Fullstack+Developer;Always+Exploring+New+Techs!"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Computer Engineering Graduate — *Eskişehir Technical University (EN)*
-- 💼 Experienced in **Cybersecurity, React, Next.js, Python, and DevOps**
-- 🌍 Delivered **Erasmus+ EU web projects** across multiple countries
-- ☁️ Hands-on experience with **Docker, AWS, and Cloud Infrastructure**
-- 🔒 Passionate about **penetration testing, secure coding, and cloud security**
-- 📫 Contact me: **emreaygur@outlook.com**
+- 🧠 Focused on **Cybersecurity**, **Fullstack Development**, and **Cloud Systems**
+- 💼 Worked with React, Next.js, Python, Docker & AWS
+- 🌍 Contributed to Erasmus+ EU projects as a freelance developer
+- 📫 Reach me: **emreaygur@outlook.com**
 
 ---
 
-### 🌐 Portfolio Websites
-- 🌍 [cede-project.eu](https://cede-project.eu) — Erasmus+ CEDE platform (WordPress + JS)  
-- 🕹️ [gamelusiveedu.eu](https://gamelusiveedu.eu) — Gamified learning website (React, JS)  
-- 💼 [jobsroadmap.eu](https://jobsroadmap.eu) — Career guidance site for youth (WordPress, custom JS)
+### 🌐 Portfolio
+- 🌍 [cede-project.eu](https://cede-project.eu) — Erasmus+ CEDE Platform  
+- 🕹️ [gamelusiveedu.eu](https://gamelusiveedu.eu) — Gamified Learning Website  
+- 💼 [jobsroadmap.eu](https://jobsroadmap.eu) — Youth Career Guidance Portal  
 
 ---
 
 ## 🖥️ Frontend Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwind,sass" />
 </p>
 
 ---
 
 ## ⚙️ Backend & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,spring,dotnet,docker" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,dotnet,docker,aws" />
 </p>
 
 ---
 
-## 🧠 Cybersecurity Stack
+## 🔒 Cybersecurity Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash" />
 </p>
-
-**Tools:** Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe  
-
----
-
-## 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,aws" />
-</p>
+Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe  
 
 ---
 
-## 🧰 Tools & IDEs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
-</p>
-
----
-
-## 🎯 Featured Projects
-### 🦴 OSTEODEEP — AI-Driven Bone Health Assessment
-AI-based osteoporosis classification system using X-ray images and ensemble ML models.  
-🧩 Presented at **ASYU 2025** conference.
-
-### 🌡️ IoT Cabinet Monitoring System (MQTT-Based)
-Designed an IoT system with **temperature, humidity, and occupancy tracking** using MQTT and dashboard visualization.
-
----
-
-## 🎓 Certificates
-- 🛡️ Ethical Hacker — Cisco Networking Academy (2025)  
-- 🧠 Garanti BBVA Cybersecurity Bootcamp (Top 20 out of 2000, 2025)  
-- ☁️ AWS Academy Cloud Foundations — AWS Academy (2024)  
-- 🐳 Docker: Temelden İleri Seviyeye — Techcareer.net (2025)  
-- 🔐 TryHackMe Pre-Security (2025)
-
----
-
-## 📊 GitHub Stats
+### 🧩 Game Section — GitHub Skyline / Tetris
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreaygur3&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://skyline.github.com/emreaygur3/2025.gif" width="480" alt="GitHub Skyline 3D" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreaygur3&theme=tokyonight" alt="streak" />
+  <img src="https://github.com/emreaygur3/emreaygur3/blob/output/tetris.svg" width="480" alt="GitHub Tetris Game" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreaygur3&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-## 🕹️ GitHub Snake Game (Dynamic Animation)
-<p align="center">
-  <img src="https://github.com/emreaygur3/emreaygur3/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## ⚡ Fun Facts
-- 🧩 I bridge cybersecurity and software development  
-- ☕ Debugging and coffee — my daily combo  
-- 🎮 I love gamifying learning & building interactive web apps  
-- 💬 Motto: *“Secure. Scalable. Simple.”*
 
 ---
 

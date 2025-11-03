@@ -45,9 +45,9 @@ Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe
 
 ---
 
-### 🌆 Isometric GitHub World
+### 🌆 GitHub 3D City
 <p align="center">
-  <img src="https://github.com/emreaygur3/emreaygur3/blob/output/isometric-contributions.svg" width="500" alt="Isometric Contributions 3D"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500" alt="3D GitHub City" />
 </p>
 
 

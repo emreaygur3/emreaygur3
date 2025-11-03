@@ -45,11 +45,11 @@ Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe
 
 ---
 
-
-### 🐍 GitHub Snake (Animated Grid)
+### 🌆 Isometric GitHub World
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emreaygur3/emreaygur3/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
+  <img src="https://github.com/emreaygur3/emreaygur3/blob/output/isometric-contributions.svg" width="500" alt="Isometric Contributions 3D"/>
 </p>
+
 
 
 ---

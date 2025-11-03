@@ -50,6 +50,27 @@ Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500" alt="3D GitHub City" />
 </p>
 
+### 🧬 Digital Flow
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Matrix Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Access+Granted...;Building+Future...;System+Online+%E2%9C%94" />
+</p>
+
+### 🌊 Dynamic Skyline Wave
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreaygur3&bg_color=0d1117&color=00bfff&line=1e90ff&point=ffffff&area=true&hide_border=true&custom_title=Activity%20Wave" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+💻;Cybersecurity+Enthusiast+🧠;AI+Engineer+🚀;Exploring+The+Future+Of+Tech+🌌" />
+</h3>
+
+<p align="center">
+  <img src="https://github.com/aleen42/badges/raw/master/src/visual_studio_code.svg" />
+  <img src="https://github.com/aleen42/badges/raw/master/src/python.svg" />
+  <img src="https://github.com/aleen42/badges/raw/master/src/csharp.svg" />
+  <img src="https://github.com/aleen42/badges/raw/master/src/javascript.svg" />
+</p>
 
 
 

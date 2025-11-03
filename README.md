@@ -45,13 +45,15 @@ Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe
 
 ---
 
-### 🧩 Game Section — GitHub Skyline / Tetris
+## 🎮 Game Section
+### 🔹 GitHub Pulse (Dynamic Grid Animation)
 <p align="center">
-  <img src="https://skyline.github.com/emreaygur3/2025.gif" width="480" alt="GitHub Skyline 3D" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreaygur3&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
 </p>
 
+### 🔹 GitHub Skyline (3D Commit City)
 <p align="center">
-  <img src="https://github.com/emreaygur3/emreaygur3/blob/output/tetris.svg" width="480" alt="GitHub Tetris Game" />
+  <img src="https://skyline.github.com/emreaygur3/2025.gif" width="500" alt="GitHub Skyline Animation">
 </p>
 
 ---

@@ -45,16 +45,12 @@ Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe
 
 ---
 
-## 🎮 Game Section
-### 🔹 GitHub Pulse (Dynamic Grid Animation)
+
+### 🐍 GitHub Snake (Animated Grid)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreaygur3&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/emreaygur3/emreaygur3/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
 </p>
 
-### 🔹 GitHub Skyline (3D Commit City)
-<p align="center">
-  <img src="https://skyline.github.com/emreaygur3/2025.gif" width="500" alt="GitHub Skyline Animation">
-</p>
 
 ---
 

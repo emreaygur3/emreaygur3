@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Emre Aygür</h1>
 <h3 align="center">💻 Cybersecurity Enthusiast & Fullstack Developer from Turkey 🇹🇷</h3>
-### 🧬 Digital Flow
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Matrix Animation" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Access+Granted...;Building+Future...;System+Online+%E2%9C%94" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cybersecurity;Jr.Fullstack+Developer;Always+Exploring+New+Techs!"/>
 </p>
 
 ---

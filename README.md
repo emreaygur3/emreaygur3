@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammed Emre Aygür</h1>
 <h3 align="center">💻 Cybersecurity Enthusiast & Fullstack Developer from Turkey 🇹🇷</h3>
-
+### 🧬 Digital Flow
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Fullstack+Developer;Always+Exploring+New+Techs!"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Matrix Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Access+Granted...;Building+Future...;System+Online+%E2%9C%94" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cybersecurity;Jr.Fullstack+Developer;Always+Exploring+New+Techs!"/>
 </p>
 
 ---
@@ -17,6 +21,7 @@
 ---
 
 ### 🌐 Portfolio
+- 💸 [atmosferyapi.com](https://atmosferyapi.com) —  Freelance Job For Local Business
 - 🌍 [cede-project.eu](https://cede-project.eu) — Erasmus+ CEDE Platform  
 - 🕹️ [gamelusiveedu.eu](https://gamelusiveedu.eu) — Gamified Learning Website  
 - 💼 [jobsroadmap.eu](https://jobsroadmap.eu) — Youth Career Guidance Portal  
@@ -43,42 +48,6 @@
 </p>
 Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe  
 
----
-### 🌐 boşluk
-### 🌆 GitHub 3D City
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500" alt="3D GitHub City" />
-</p>
-### 🌐 boşluk
-### 🧬 Digital Flow
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Matrix Animation" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Access+Granted...;Building+Future...;System+Online+%E2%9C%94" />
-</p>
-### 🌐 boşluk
-
-### 🌊 Dynamic Skyline Wave
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreaygur3&bg_color=0d1117&color=00bfff&line=1e90ff&point=ffffff&area=true&hide_border=true&custom_title=Activity%20Wave" />
-</p>
-### 🌐 boşluk
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+💻;Cybersecurity+Enthusiast+🧠;AI+Engineer+🚀;Exploring+The+Future+Of+Tech+🌌" />
-</h3>
-
-<p align="center">
-  <img src="https://github.com/aleen42/badges/raw/master/src/visual_studio_code.svg" />
-  <img src="https://github.com/aleen42/badges/raw/master/src/python.svg" />
-  <img src="https://github.com/aleen42/badges/raw/master/src/csharp.svg" />
-  <img src="https://github.com/aleen42/badges/raw/master/src/javascript.svg" />
-</p>
-### 🌐 boşluk
-
-### 🎮 Cyber Runner
-[![Cyber Runner Gameplay](https://github.com/emreaygur3/emreaygur3/raw/main/assets/cyber-runner.gif)](https://emreaygur3.github.io/cyber-runner-game/)
-> Jump over the bugs, survive as long as you can. Built with vanilla JS, HTML5 canvas and too much coffee ☕
-
----
 
 ### 🔗 Connect with Me
 <p align="center">

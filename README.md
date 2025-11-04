@@ -74,6 +74,9 @@ Wireshark · Burp Suite · Metasploit · Nmap · TryHackMe
 </p>
 ### 🌐 boşluk
 
+### 🎮 Cyber Runner
+[![Cyber Runner Gameplay](https://github.com/emreaygur3/emreaygur3/raw/main/assets/cyber-runner.gif)](https://emreaygur3.github.io/cyber-runner-game/)
+> Jump over the bugs, survive as long as you can. Built with vanilla JS, HTML5 canvas and too much coffee ☕
 
 ---
 
